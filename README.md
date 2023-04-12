@@ -2,7 +2,7 @@
 
  🔥 I am an IT student at Ha Noi University of Science and Technology
  
- 🔭 I’m interested in **Web Development, App Developer and AI**
+ 🔭 I’m interested in **Web Development, Mobile App Development and AI**
  
  🌱 I like self-study, reading book and listening to music in free time.
 
