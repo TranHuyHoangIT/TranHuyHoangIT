@@ -6,4 +6,5 @@
  
  🌱 I like self-study, reading book and listening to music in free time.
 
+ 🔥 I can use English and Japanese
 ---
